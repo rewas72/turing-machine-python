@@ -8,6 +8,13 @@ Bu proje, Turing makinesi'ni gerçek haya ile ilişkilendirmek için yapılmış
 
 Bankamatik (ATM) gibi sistemlerde kullanılan PIN doğrulama mantığını, Turing makinesi modeli ile temsil etmek ve bir yazılım projesi olarak simüle etmektir.
 
+## Uygulama görselleri
+<p align="center">
+<img src="images/true.png" width="500" height="200">
+<img src="images/false.png" width="500" height="200">
+</p>
+
+
 ## PIN kontrol bandı şu yapıda oluşturulur:
 
 ```bash
@@ -21,10 +28,36 @@ Bankamatik (ATM) gibi sistemlerde kullanılan PIN doğrulama mantığını, Turi
 
 -Son #: Sonlandırıcı
 
-## 🚀 Projeyi Çalıştırmak
+##  Projeyi Çalıştırmak
 
 1. Proje dosyasını indirin veya klonlayın:
    ```bash
-   git clone https://github.com/kullanici-adi/turing-pin-validator.git
+   git clone https://github.com/rewas72/turing-machine-python
    cd turing-machine
    python turing-machine.py
+
+## Kullanıcı Girdisi
+
+###  Doğru PIN:
+    ```bash
+    Giriş: 1234
+    Sabit PIN: 1234
+    Sonuç:  Şifre doğru.
+    ```
+### Yanlış PIN:
+
+```bash
+    Giriş: 1234
+    Sabit PIN: 4321
+    Sonuç:  Şifre yanlış.
+    ```
+---
+
+
+
+    
+
+
+
+
+
