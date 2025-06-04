@@ -8,10 +8,19 @@ Bu proje, Turing makinesi'ni gerçek haya ile ilişkilendirmek için yapılmış
 
 Bankamatik (ATM) gibi sistemlerde kullanılan PIN doğrulama mantığını, Turing makinesi modeli ile temsil etmek ve bir yazılım projesi olarak simüle etmektir.
 
+
+## Youtube Videosu
+https://www.youtube.com/watch?v=Bpg9_O-4FB8&ab_channel=revasak%C4%B1n
+
 ## Uygulama görselleri
 <p align="center">
 <img src="images/true.png" width="500" height="200">
 <img src="images/false.png" width="500" height="200">
+</p>
+
+## Turing Makinesi Durum Geçiş Tablosu
+<p align="center">
+<img src="images/turing.png" width="500" height="200">
 </p>
 
 
@@ -50,8 +59,7 @@ Bankamatik (ATM) gibi sistemlerde kullanılan PIN doğrulama mantığını, Turi
     Giriş: 1234
     Sabit PIN: 4321
     Sonuç:  Şifre yanlış.
-    ```
----
+    
 
 
 
